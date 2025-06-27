@@ -1,3 +1,3 @@
-module github.com/Qatarbae/Vleugel/protoc
+module github.com/Qatarbae/protoc
 
 go 1.24
